@@ -1,0 +1,12 @@
+{
+  "name": "lbd-answer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "serverless": "^2.34.0"
+  },
+  "dependencies": {
+    "orchy-base-code7": "^1.3.6"
+  }
+}
